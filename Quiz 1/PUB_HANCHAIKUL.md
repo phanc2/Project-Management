@@ -1,4 +1,4 @@
-<H1> Header 1 </H1>
+<H1> Pub Hanchaikul </H1>
 
-<H3> Header 3 </H3>
+<H3> IS 340 Quiz 1 </H3>
 
